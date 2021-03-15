@@ -5,3 +5,5 @@
 2.简单数据分析
 3.SVD建模
 4.spark Api 建模
+6.SVD召回
+7.wide&deep排序
